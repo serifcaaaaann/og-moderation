@@ -1,0 +1,57 @@
+{
+     "UNUTMA" : "ROL YÖNET KOMUTUNU ELLE YAP && MESSAGE.JS ELLE YAP && MAİNİ KONTROL ET!!!",
+    
+    "tag" : "ᵃᵍᵃ",
+    "untag" : "•",
+    "token" : "ODQ3MTM5MzYzNjE1MDE0OTIz.YK5uAw.CBlbj-15fRe71jZUX30lP7WuQ9s",
+    "mongourl" : "mongodb+srv://daldalserifcan45:serifcandaldal45..@cluster0.gvewe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "botdurum" : "OG Spam 💙",
+     "guildid" : "687299433943269505",
+     "seskanal" : "826466274300657764",
+     
+     "botowner" : "828648960729415711",
+     "kurucu" : "826435593701556234",
+     "kurucualt" : "",
+     "ustyonetici" : "826436320669990982",
+     "yonetici" : "826436323132702750",
+    "yetkirolleri" : ["826435593701556234","826436320669990982","826436323132702750","826440424105050132","826440400046522400","843236003938172939","826440374880698408","836553439634653214"],
+    
+       "booster" : "",
+     
+
+    "genelyetkili" : "836553880350359562",
+     "banhammer" : "826440424105050132",
+     "jailhammer" : "826440400046522400",
+     "mutehammer" : "826440374880698408",
+     "warnhammer" : "843236003938172939",
+     "skill" : "836553439634653214",
+     "katıldı" : "832166370321629204",
+     "taglıperm" : "826459015864123503",
+
+     "jail" : "826450651931738112",
+     "muted" : "829320914050089001",
+     "vmuted" : "832158942033084427",
+     "uyarı1" : "839033601998716978",
+     "uyarı2" : "839036822041526304",
+     "uyarı3" : "839036828556066877",
+     "yasaklıtag" : "836548750172094515",
+
+     "banlog" : "828986528608813069",
+     "jaillog" : "828986544261431336",
+     "mutelog" : "837579480683118594",
+     "rollog" : "843233812623261757",
+     "taglog" : "832157812909277224",
+     "commandblock" : "852432545811136553",
+
+     "genelchat" : "826434133235728414",
+    "botcommandchat" : "826484062171561994",
+
+
+    "sesaktoru" : "",
+    "editör" : "",
+    "yazılımcı" : "",
+    "müzisyen" : "",
+    "yayıncı" : "",
+    "tasarımcı" : ""
+
+}
