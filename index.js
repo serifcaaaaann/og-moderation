@@ -284,8 +284,8 @@ const init = async () => {
   });
 
 
-  client.login(ayarlar.token);
-  mongoose.connect(ayarlar.mongourl, {
+  client.login(process.env.token);
+  mongoose.connect(process.env.mongourl, {
     useUnifiedTopology: true,
     useNewUrlParser: true,
     useCreateIndex: true,
